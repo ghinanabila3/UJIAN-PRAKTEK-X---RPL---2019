@@ -1,0 +1,56 @@
+body{
+	font-family: sans-serif;
+	background: #C4C4C4;
+}
+ 
+h1{
+	text-align: center;
+	/*ketebalan font*/
+	font-weight: 300;
+}
+ 
+.HEADER{
+	position: absolute;
+	width: 1440;
+	height: 166px;
+	left: 0px;
+	top: 0px;
+	background: #C4C4C4
+
+}
+ 
+.BODY{
+	width: 350px;
+	background: white;
+	/*meletakkan form ke tengah*/
+	margin: 80px auto;
+	padding: 30px 20px;
+}
+ 
+label{
+	font-size: 11pt;
+}
+ 
+.h2{
+	position: absolute;
+	width: 260px;
+	height: 228;
+	left: 40px;
+	top: 1034px;
+}
+ 
+.dua{
+	background: #46de4b;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+}
+ 
+.tiga{
+	color: #232323;
+	text-decoration: none;
+	font-size: 10pt;
+}
